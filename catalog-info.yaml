@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: drpclarity
+  annotations:
+    github.com/project-slug: DRPPrashant/drpclarity
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage
